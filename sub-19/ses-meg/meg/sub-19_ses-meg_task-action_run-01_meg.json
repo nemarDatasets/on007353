@@ -1,0 +1,42 @@
+{
+    "TaskName": "action",
+    "Manufacturer": "Elekta",
+    "PowerLineFrequency": 50.0,
+    "SamplingFrequency": 1200.0,
+    "SoftwareFilters": {
+        "SpatialCompensation": {
+            "GradientOrder": 3
+        }
+    },
+    "RecordingDuration": 359.99916666666667,
+    "RecordingType": "continuous",
+    "DewarPosition": "n/a",
+    "DigitizedLandmarks": true,
+    "DigitizedHeadPoints": false,
+    "MEGChannelCount": 273,
+    "MEGREFChannelCount": 28,
+    "ContinuousHeadLocalization": true,
+    "HeadCoilFrequency": [],
+    "AssociatedEmptyRoom": "sub-emptyroom/ses-20211114/meg/sub-emptyroom_ses-20211114_task-noise_meg.fif",
+    "EEGChannelCount": 0,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 108,
+    "TriggerChannelCount": 0,
+    "ManufacturersModelName": "CTF DSQ3500",
+    "SoftwareVersions": "CTF Data Acquisition Software 7.5.0",
+    "DeviceSerialNumber": "DSQ3500",
+    "TaskDescription": "Participants watched videos of actions and responded whether the action was sports with the right or left hand.",
+    "Instructions": "Watch the videos carefully and respond as quickly and accurately as possible whether the action is sports or not using the right or left hand respectively after video disappear.",
+    "CogAtlasID": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949846/",
+    "CogPOID": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949846/",
+    "InstitutionName": "Chinese Academy of Sciences, Beijing",
+    "InstitutionAddress": " No 15 Datun Road, Chaoyang District, Beijing.",
+    "InstitutionalDepartmentName": "Institute of Biophysics",
+    "ECOGChannelCount": 0,
+    "SEEGChannelCount": 0,
+    "MaxMovement": 1e-05,
+    "SubjectArtefactDescription": "n/a",
+    "HardwareFilters": "n/a"
+}

@@ -1,0 +1,41 @@
+component	type	description	status	status_description	annotate_method	annotate_author	ic_type	pred_prob
+0	ica	Independent Component	bad	n/a	MEGNet	n/a	eye movement	1.0
+1	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+2	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+3	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+4	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+5	ica	Independent Component	bad	n/a	MEGNet	n/a	heart beat	1.0
+6	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+7	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+8	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+9	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+10	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+11	ica	Independent Component	bad	n/a	MEGNet	n/a	eye blink	1.0
+12	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+13	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+14	ica	Independent Component	bad	n/a	MEGNet	n/a	heart beat	0.9999999999999936
+15	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+16	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+17	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+18	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+19	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+20	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+21	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+22	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+23	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+24	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+25	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+26	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+27	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+28	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+29	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+30	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+31	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+32	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+33	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+34	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+35	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+36	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+37	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+38	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0
+39	ica	Independent Component	good	n/a	MEGNet	n/a	brain/other	1.0

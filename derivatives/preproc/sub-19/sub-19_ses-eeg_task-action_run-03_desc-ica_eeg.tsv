@@ -1,0 +1,21 @@
+component	type	description	status	status_description	annotate_method	annotate_author	ic_type	pred_prob
+0	ica	Independent Component	bad	n/a	ICLabel	n/a	eye blink	0.9897936582565308
+1	ica	Independent Component	good	n/a	ICLabel	n/a	brain	0.9736016392707824
+2	ica	Independent Component	good	n/a	ICLabel	n/a	brain	0.9908305406570436
+3	ica	Independent Component	good	n/a	ICLabel	n/a	brain	0.8503385186195374
+4	ica	Independent Component	bad	n/a	ICLabel	n/a	muscle artifact	0.9506450891494752
+5	ica	Independent Component	bad	n/a	ICLabel	n/a	muscle artifact	0.9935645461082458
+6	ica	Independent Component	good	n/a	ICLabel	n/a	brain	0.8452416062355042
+7	ica	Independent Component	bad	n/a	ICLabel	n/a	muscle artifact	0.9895853400230408
+8	ica	Independent Component	bad	n/a	ICLabel	n/a	muscle artifact	0.9808021783828736
+9	ica	Independent Component	good	n/a	ICLabel	n/a	brain	0.9895808100700378
+10	ica	Independent Component	bad	n/a	ICLabel	n/a	muscle artifact	0.8103765249252319
+11	ica	Independent Component	bad	n/a	ICLabel	n/a	muscle artifact	0.7242248058319092
+12	ica	Independent Component	good	n/a	ICLabel	n/a	other	0.6796950101852417
+13	ica	Independent Component	good	n/a	ICLabel	n/a	other	0.4811129570007324
+14	ica	Independent Component	bad	n/a	ICLabel	n/a	muscle artifact	0.7495430707931519
+15	ica	Independent Component	good	n/a	ICLabel	n/a	brain	0.4423344731330871
+16	ica	Independent Component	bad	n/a	ICLabel	n/a	muscle artifact	0.9504215717315674
+17	ica	Independent Component	good	n/a	ICLabel	n/a	brain	0.3828644752502441
+18	ica	Independent Component	bad	n/a	ICLabel	n/a	muscle artifact	0.8800457715988159
+19	ica	Independent Component	good	n/a	ICLabel	n/a	brain	0.4555661976337433
