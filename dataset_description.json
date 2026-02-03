@@ -38,5 +38,6 @@
     "ReferencesAndLinks": [
         "HAD-fMRI: https://openneuro.org/datasets/ds004488/versions/2.0.0",
         "Github: https://github.com/colehank/HAD-MEEG"
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007353.v1.0.0"
 }
