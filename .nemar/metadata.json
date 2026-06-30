@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "HAD-MEEG",
-  "description": "HAD-MEEG is a multimodal neuroimaging dataset combining magnetoencephalography (MEG) and electroencephalography (EEG) recordings from 30 participants viewing 21,600 video clips across 180 human action categories. Designed to complement the previously released HAD-fMRI dataset, this resource leverages the millisecond-level temporal resolution of M/EEG to capture rapid neural dynamics underlying action recognition and social cognition, enabling integrated spatiotemporal analysis of brain responses to visual action stimuli.",
-  "methods_description": "MEG and EEG were recorded from 30 participants during passive viewing of video clips depicting human actions. The stimulus set comprised 21,600 video clips spanning 180 action categories, identical to those used in the HAD-fMRI study, allowing for direct comparison of temporal (M/EEG) and spatial (fMRI) neural responses.",
+  "description": "HAD-MEEG is a multimodal neuroimaging dataset combining magnetoencephalography (MEG) and electroencephalography (EEG) recordings from 30 participants viewing 21,600 video clips across 180 human action categories. Designed to complement the previously released HAD-fMRI dataset, this resource leverages the millisecond-level temporal resolution of M/EEG to capture rapid neural dynamics underlying action recognition and social cognition, enabling comprehensive spatiotemporal investigation of the neural mechanisms supporting human action perception.",
+  "methods_description": "MEG and EEG were recorded from 30 participants identical to those in the HAD-fMRI study. Participants viewed 21,600 video clips spanning 180 categories of human actions. Data were collected using the same stimuli as the fMRI component to enable direct comparison of spatial and temporal neural responses.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -31,9 +31,7 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D000083282"
     },
     {
-      "term": "Visual Perception",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D014796"
+      "term": "video stimuli"
     },
     {
       "term": "multimodal neuroimaging"
