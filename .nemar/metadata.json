@@ -1,0 +1,49 @@
+{
+  "version": "2.0",
+  "dataset_id": "on007353",
+  "source": "openneuro",
+  "source_id": "ds007353",
+  "title": "HAD-MEEG",
+  "authors": {
+    "Guohao Zhang": {},
+    "Sai Ma": {},
+    "Ming Zhou": {},
+    "Shaohua Tang": {},
+    "Shuyi Zhen": {},
+    "Zheng Li": {},
+    "Zonglei Zhen": {}
+  },
+  "license": "CC0",
+  "dataset_type": "raw",
+  "related_identifiers": [
+    {
+      "identifier": "10.18112/openneuro.ds007353.v1.0.0",
+      "identifier_type": "DOI",
+      "relation_type": "IsIdenticalTo"
+    }
+  ],
+  "pipeline_stage": "seeded",
+  "bids_version": "1.10.1",
+  "recording_modality": [
+    "anat",
+    "eeg",
+    "meg"
+  ],
+  "datatypes": [
+    "anat",
+    "eeg",
+    "meg"
+  ],
+  "funding_references": [
+    {
+      "funder_name": "Beijing Natural Science Foundation (#L247010)"
+    },
+    {
+      "funder_name": "National Natural Science Foundation of China (#62433015, #31771251)"
+    },
+    {
+      "funder_name": "STI 2030-436 Major Projects of the Ministry of Science and Technology of China437 (#2021ZD0200407)"
+    }
+  ],
+  "acknowledgements": "This research was supported by Beijing Natural Science Foundation (L247010), National Natural Science Foundation of China (62433015, 31771251) and STI 2030-Major Projects of the Ministry of Science and Technology of China (2021ZD0200407). The funders had no role in the study design; data collection, analysis, and interpretation; writing of the manuscript; or the decision to submit the article for publication."
+}
