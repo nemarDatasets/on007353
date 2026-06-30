@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "dataset_id": "on007353",
-  "source": "openneuro",
-  "source_id": "ds007353",
+  "pipeline_stage": "enriched",
   "title": "HAD-MEEG",
+  "license": "CC0",
+  "dataset_type": "raw",
   "authors": {
     "Guohao Zhang": {},
     "Sai Ma": {},
@@ -13,37 +13,122 @@
     "Zheng Li": {},
     "Zonglei Zhen": {}
   },
-  "license": "CC0",
-  "dataset_type": "raw",
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds007353.v1.0.0",
       "identifier_type": "DOI",
       "relation_type": "IsIdenticalTo"
+    },
+    {
+      "identifier": "10.18112/openneuro.ds004488.v2.0.0",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on007353",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/on007353",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
     }
-  ],
-  "pipeline_stage": "seeded",
-  "bids_version": "1.10.1",
-  "recording_modality": [
-    "anat",
-    "eeg",
-    "meg"
-  ],
-  "datatypes": [
-    "anat",
-    "eeg",
-    "meg"
   ],
   "funding_references": [
     {
-      "funder_name": "Beijing Natural Science Foundation (#L247010)"
+      "funder_name": "Beijing Natural Science Foundation",
+      "award_number": "L247010"
     },
     {
-      "funder_name": "National Natural Science Foundation of China (#62433015, #31771251)"
+      "funder_name": "National Natural Science Foundation of China",
+      "award_number": "62433015"
     },
     {
-      "funder_name": "STI 2030-436 Major Projects of the Ministry of Science and Technology of China437 (#2021ZD0200407)"
+      "funder_name": "National Natural Science Foundation of China",
+      "award_number": "31771251"
+    },
+    {
+      "funder_name": "Ministry of Science and Technology of China",
+      "award_number": "2021ZD0200407",
+      "award_title": "STI 2030-Major Projects"
     }
   ],
-  "acknowledgements": "This research was supported by Beijing Natural Science Foundation (L247010), National Natural Science Foundation of China (62433015, 31771251) and STI 2030-Major Projects of the Ministry of Science and Technology of China (2021ZD0200407). The funders had no role in the study design; data collection, analysis, and interpretation; writing of the manuscript; or the decision to submit the article for publication."
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg",
+    "meg",
+    "anat"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "0.0 KB (1 files)"
+  ],
+  "formats": [
+    ".csv",
+    ".fif",
+    ".gz",
+    ".json",
+    ".md",
+    ".mp4",
+    ".set",
+    ".tsv",
+    ".yml"
+  ],
+  "description": "HAD-MEEG is a multimodal neuroimaging dataset combining magnetoencephalography (MEG) and electroencephalography (EEG) recordings from 30 participants viewing 21,600 video clips across 180 human action categories. Recorded with identical stimuli and participants as the previously released HAD-fMRI dataset, HAD-MEEG provides millisecond-level temporal resolution to complement fMRI's spatial precision, enabling comprehensive investigation of spatiotemporal neural dynamics underlying human action recognition and social cognition.",
+  "methods_description": "MEG and EEG were recorded from 30 participants during passive viewing of video clips depicting human actions. The stimulus set comprised 21,600 video clips spanning 180 action categories, identical to those used in the HAD-fMRI dataset to enable cross-modal integration.",
+  "keywords": [
+    {
+      "term": "MEG"
+    },
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "magnetoencephalography"
+    },
+    {
+      "term": "electroencephalography"
+    },
+    {
+      "term": "action recognition"
+    },
+    {
+      "term": "human action"
+    },
+    {
+      "term": "social cognition"
+    },
+    {
+      "term": "neural dynamics"
+    },
+    {
+      "term": "multimodal neuroimaging"
+    },
+    {
+      "term": "video stimuli"
+    },
+    {
+      "term": "action categories"
+    },
+    {
+      "term": "temporal dynamics"
+    },
+    {
+      "term": "spatiotemporal"
+    },
+    {
+      "term": "Brain Mapping",
+      "subject_scheme": "MeSH"
+    },
+    {
+      "term": "Cognition",
+      "subject_scheme": "MeSH"
+    },
+    {
+      "term": "Neuroimaging",
+      "subject_scheme": "MeSH"
+    }
+  ],
+  "source_hash": "e28cfba06c02c0cc7705306044c726fea6dd86e95e7e97b6e2768b91490826d1"
 }
