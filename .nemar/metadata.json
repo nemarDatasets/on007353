@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "HAD-MEEG",
-  "description": "HAD-MEEG is a multimodal neuroimaging dataset combining magnetoencephalography (MEG) and electroencephalography (EEG) recordings from 30 participants viewing 21,600 video clips across 180 human action categories. Designed to complement the previously released HAD-fMRI dataset, this resource leverages the millisecond-level temporal resolution of M/EEG to capture rapid neural dynamics underlying action recognition and social cognition, enabling comprehensive spatiotemporal investigation of the neural mechanisms supporting human action perception.",
-  "methods_description": "MEG and EEG were recorded from 30 participants identical to those in the HAD-fMRI study. Participants viewed 21,600 video clips spanning 180 categories of human actions. Data were collected using the same stimuli as the fMRI component to enable direct comparison of spatial and temporal neural responses.",
+  "description": "HAD-MEEG is a multimodal neuroimaging dataset combining magnetoencephalography (MEG) and electroencephalography (EEG) recordings from 30 participants viewing 21,600 video clips across 180 human action categories. Designed to complement the previously released HAD-fMRI dataset, this resource leverages the millisecond-level temporal resolution of M/EEG to capture rapid neural dynamics underlying action recognition and social cognition, enabling integrated spatiotemporal analysis of brain responses to visual action stimuli.",
+  "methods_description": "MEG and EEG were recorded from 30 participants identical to those in the HAD-fMRI study. Participants viewed 21,600 video clips spanning 180 categories of human actions. Data were collected using the same stimuli as the fMRI component to enable direct comparison across modalities.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -34,10 +34,10 @@
       "term": "video stimuli"
     },
     {
-      "term": "multimodal neuroimaging"
+      "term": "temporal dynamics"
     },
     {
-      "term": "temporal dynamics"
+      "term": "multimodal neuroimaging"
     }
   ],
   "related_identifiers": [
