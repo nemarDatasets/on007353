@@ -2,7 +2,7 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "HAD-MEEG",
-  "description": "HAD-MEEG is a magnetoencephalography (MEG) and electroencephalography (EEG) dataset recorded from 30 participants viewing 21,600 video clips spanning 180 categories of human action, extending the previously released Human Action Dataset (HAD) fMRI resource. It was collected in the same participants and with the same stimuli as HAD-fMRI to enable combined spatiotemporal investigation of neural mechanisms underlying human action recognition. The dataset leverages the millisecond-level temporal resolution of M/EEG to complement the spatial precision of fMRI.",
+  "description": "HAD-MEEG is a magnetoencephalography (MEG) and electroencephalography (EEG) dataset on human action recognition. It extends the Human Action Dataset fMRI resource (HAD-fMRI) and was recorded in the same 30 participants with the same stimuli, 21,600 video clips spanning 180 categories of human action. The millisecond temporal resolution of M/EEG complements the spatial precision of fMRI, enabling spatiotemporal study of the neural mechanisms of action recognition.",
   "methods_description": "MEG and EEG data were recorded from 30 participants as they viewed 21,600 video clips spanning 180 categories of human action, using the same participants and stimuli as the previously released HAD-fMRI dataset.",
   "license": "CC0",
   "dataset_type": "raw",
@@ -17,26 +17,29 @@
   },
   "keywords": [
     {
-      "term": "EEG"
-    },
-    {
       "term": "MEG"
     },
     {
-      "term": "human action recognition"
+      "term": "EEG"
     },
     {
-      "term": "Social Cognition",
+      "term": "action recognition"
+    },
+    {
+      "term": "video stimuli"
+    },
+    {
+      "term": "fMRI"
+    },
+    {
+      "term": "Magnetoencephalography",
       "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D000083282"
+      "value_uri": "http://id.nlm.nih.gov/mesh/D015225"
     },
     {
-      "term": "Visual Perception",
+      "term": "Electroencephalography",
       "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D014796"
-    },
-    {
-      "term": "neuroimaging"
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
     }
   ],
   "related_identifiers": [
@@ -87,7 +90,7 @@
     "anat"
   ],
   "sizes": [
-    "235.1 GB (23087 files)"
+    "219 GB (23087 files)"
   ],
   "formats": [
     ".csv",
