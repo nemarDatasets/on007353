@@ -1,267 +1,267 @@
-onset	duration	trial_type	value	sample
-0.0	0.0	begin	1	0
-5.029	0.0	video on	5	5029
-7.03	0.0	video off	4	7030
-7.624	0.0	resp	3	7624
-8.027	0.0	video on	5	8027
-10.031	0.0	video off	4	10031
-10.456	0.0	resp	3	10456
-11.026	0.0	video on	5	11026
-13.029	0.0	video off	4	13029
-13.688	0.0	resp	3	13688
-14.027	0.0	video on	5	14027
-16.036	0.0	video off	4	16036
-16.48	0.0	resp	3	16480
-17.026	0.0	video on	5	17026
-19.026	0.0	video off	4	19026
-19.44	0.0	resp	3	19440
-23.026	0.0	video on	5	23026
-25.037	0.0	video off	4	25037
-25.48	0.0	resp	3	25480
-26.027	0.0	video on	5	26027
-28.035	0.0	video off	4	28035
-28.464	0.0	resp	3	28464
-29.027	0.0	video on	5	29027
-31.038	0.0	video off	4	31038
-31.44	0.0	resp	3	31440
-32.027	0.0	video on	5	32027
-34.069	0.0	video off	4	34069
-34.776	0.0	resp	3	34776
-35.027	0.0	video on	5	35027
-37.027	0.0	video off	4	37027
-37.464	0.0	resp	3	37464
-41.027	0.0	video on	5	41027
-43.035	0.0	video off	4	43035
-43.496	0.0	resp	3	43496
-44.027	0.0	video on	5	44027
-46.027	0.0	video off	4	46027
-46.608	0.0	resp	3	46608
-47.027	0.0	video on	5	47027
-49.029	0.0	video off	4	49029
-49.664	0.0	resp	3	49664
-50.027	0.0	video on	5	50027
-52.011	0.0	video off	4	52011
-52.496	0.0	resp	3	52496
-53.027	0.0	video on	5	53027
-55.033	0.0	video off	4	55033
-55.48	0.0	resp	3	55480
-59.027	0.0	video on	5	59027
-61.026	0.0	video off	4	61026
-61.552	0.0	resp	3	61552
-62.027	0.0	video on	5	62027
-64.03	0.0	video off	4	64030
-64.912	0.0	resp	3	64912
-65.114	0.0	video on	5	65114
-67.124	0.0	video off	4	67124
-68.027	0.0	video on	5	68027
-70.036	0.0	video off	4	70036
-71.027	0.0	video on	5	71027
-73.055	0.0	video off	4	73055
-73.624	0.0	resp	3	73624
-77.027	0.0	video on	5	77027
-79.034	0.0	video off	4	79034
-79.48	0.0	resp	3	79480
-80.027	0.0	video on	5	80027
-82.031	0.0	video off	4	82031
-82.504	0.0	resp	3	82504
-83.027	0.0	video on	5	83027
-85.034	0.0	video off	4	85034
-85.488	0.0	resp	3	85488
-86.027	0.0	video on	5	86027
-88.065	0.0	video off	4	88065
-88.856	0.0	resp	3	88856
-89.029	0.0	video on	5	89029
-91.034	0.0	video off	4	91034
-91.561	0.0	resp	3	91561
-95.027	0.0	video on	5	95027
-97.027	0.0	video off	4	97027
-97.585	0.0	resp	3	97585
-98.027	0.0	video on	5	98027
-100.03	0.0	video off	4	100030
-100.481	0.0	resp	3	100481
-101.027	0.0	video on	5	101027
-103.031	0.0	video off	4	103031
-103.689	0.0	resp	3	103689
-104.027	0.0	video on	5	104027
-106.035	0.0	video off	4	106035
-106.433	0.0	resp	3	106433
-107.027	0.0	video on	5	107027
-109.029	0.0	video off	4	109029
-113.027	0.0	video on	5	113027
-115.029	0.0	video off	4	115029
-115.889	0.0	resp	3	115889
-116.049	0.0	video on	5	116049
-118.055	0.0	video off	4	118055
-118.513	0.0	resp	3	118513
-119.027	0.0	video on	5	119027
-121.033	0.0	video off	4	121033
-121.546	0.0	resp	3	121546
-122.028	0.0	video on	5	122028
-124.029	0.0	video off	4	124029
-124.425	0.0	resp	3	124425
-125.027	0.0	video on	5	125027
-127.033	0.0	video off	4	127033
-127.433	0.0	resp	3	127433
-131.029	0.0	video on	5	131029
-133.064	0.0	video off	4	133064
-133.465	0.0	resp	3	133465
-134.028	0.0	video on	5	134028
-136.034	0.0	video off	4	136034
-136.601	0.0	resp	3	136601
-137.028	0.0	video on	5	137028
-139.035	0.0	video off	4	139035
-139.825	0.0	resp	3	139825
-140.027	0.0	video on	5	140027
-142.027	0.0	video off	4	142027
-142.593	0.0	resp	3	142593
-143.028	0.0	video on	5	143028
-145.033	0.0	video off	4	145033
-145.913	0.0	resp	3	145913
-149.028	0.0	video on	5	149028
-151.068	0.0	video off	4	151068
-151.585	0.0	resp	3	151585
-152.029	0.0	video on	5	152029
-154.033	0.0	video off	4	154033
-154.657	0.0	resp	3	154657
-155.028	0.0	video on	5	155028
-157.036	0.0	video off	4	157036
-157.705	0.0	resp	3	157705
-158.027	0.0	video on	5	158027
-160.031	0.0	video off	4	160031
-160.609	0.0	resp	3	160609
-161.027	0.0	video on	5	161027
-163.031	0.0	video off	4	163031
-163.521	0.0	resp	3	163521
-167.027	0.0	video on	5	167027
-169.034	0.0	video off	4	169034
-169.521	0.0	resp	3	169521
-170.028	0.0	video on	5	170028
-172.069	0.0	video off	4	172069
-172.682	0.0	resp	3	172682
-173.027	0.0	video on	5	173027
-175.069	0.0	video off	4	175069
-175.889	0.0	resp	3	175889
-176.098	0.0	video on	5	176098
-178.104	0.0	video off	4	178104
-178.569	0.0	resp	3	178569
-179.029	0.0	video on	5	179029
-181.034	0.0	video off	4	181034
-181.786	0.0	resp	3	181786
-185.029	0.0	video on	5	185029
-187.031	0.0	video off	4	187031
-187.666	0.0	resp	3	187666
-188.028	0.0	video on	5	188028
-190.025	0.0	video off	4	190025
-190.409	0.0	resp	3	190409
-191.028	0.0	video on	5	191028
-193.034	0.0	video off	4	193034
-193.505	0.0	resp	3	193505
-194.028	0.0	video on	5	194028
-196.025	0.0	video off	4	196025
-196.761	0.0	resp	3	196761
-197.028	0.0	video on	5	197028
-199.029	0.0	video off	4	199029
-199.634	0.0	resp	3	199634
-203.028	0.0	video on	5	203028
-205.028	0.0	video off	4	205028
-205.906	0.0	resp	3	205906
-206.099	0.0	video on	5	206099
-208.106	0.0	video off	4	208106
-209.028	0.0	video on	5	209028
-211.069	0.0	video off	4	211069
-212.028	0.0	video on	5	212028
-214.038	0.0	video off	4	214038
-214.458	0.0	resp	3	214458
-215.028	0.0	video on	5	215028
-217.032	0.0	video off	4	217032
-217.482	0.0	resp	3	217482
-221.028	0.0	video on	5	221028
-223.034	0.0	video off	4	223034
-223.65	0.0	resp	3	223650
-224.028	0.0	video on	5	224028
-226.033	0.0	video off	4	226033
-226.626	0.0	resp	3	226626
-227.033	0.0	video on	5	227033
-229.039	0.0	video off	4	229039
-229.138	0.0	resp	3	229138
-230.028	0.0	video on	5	230028
-232.032	0.0	video off	4	232032
-232.466	0.0	resp	3	232466
-233.029	0.0	video on	5	233029
-235.036	0.0	video off	4	235036
-235.586	0.0	resp	3	235586
-239.03	0.0	video on	5	239030
-241.036	0.0	video off	4	241036
-241.762	0.0	resp	3	241762
-242.029	0.0	video on	5	242029
-244.034	0.0	video off	4	244034
-244.378	0.0	resp	3	244378
-245.028	0.0	video on	5	245028
-247.04	0.0	video off	4	247040
-247.45	0.0	resp	3	247450
-248.028	0.0	video on	5	248028
-250.031	0.0	video off	4	250031
-250.49	0.0	resp	3	250490
-251.028	0.0	video on	5	251028
-253.035	0.0	video off	4	253035
-253.666	0.0	resp	3	253666
-257.028	0.0	video on	5	257028
-259.035	0.0	video off	4	259035
-259.898	0.0	resp	3	259898
-260.114	0.0	video on	5	260114
-262.16	0.0	video off	4	262160
-262.674	0.0	resp	3	262674
-263.028	0.0	video on	5	263028
-265.031	0.0	video off	4	265031
-265.426	0.0	resp	3	265426
-266.028	0.0	video on	5	266028
-268.036	0.0	video off	4	268036
-268.73	0.0	resp	3	268730
-269.028	0.0	video on	5	269028
-271.056	0.0	video off	4	271056
-271.674	0.0	resp	3	271674
-275.028	0.0	video on	5	275028
-277.028	0.0	video off	4	277028
-277.626	0.0	resp	3	277626
-278.028	0.0	video on	5	278028
-280.035	0.0	video off	4	280035
-280.874	0.0	resp	3	280874
-281.058	0.0	video on	5	281058
-283.058	0.0	video off	4	283058
-283.53	0.0	resp	3	283530
-284.029	0.0	video on	5	284029
-286.036	0.0	video off	4	286036
-286.874	0.0	resp	3	286874
-287.058	0.0	video on	5	287058
-289.066	0.0	video off	4	289066
-289.658	0.0	resp	3	289658
-293.028	0.0	video on	5	293028
-295.031	0.0	video off	4	295031
-295.506	0.0	resp	3	295506
-296.028	0.0	video on	5	296028
-298.027	0.0	video off	4	298027
-298.658	0.0	resp	3	298658
-299.028	0.0	video on	5	299028
-301.038	0.0	video off	4	301038
-301.819	0.0	resp	3	301819
-302.028	0.0	video on	5	302028
-304.034	0.0	video off	4	304034
-304.635	0.0	resp	3	304635
-305.029	0.0	video on	5	305029
-307.068	0.0	video off	4	307068
-307.69	0.0	resp	3	307690
-311.029	0.0	video on	5	311029
-313.016	0.0	video off	4	313016
-313.547	0.0	resp	3	313547
-314.029	0.0	video on	5	314029
-316.069	0.0	video off	4	316069
-316.876	0.0	resp	3	316876
-317.052	0.0	video on	5	317052
-319.051	0.0	video off	4	319051
-319.619	0.0	resp	3	319619
-320.03	0.0	video on	5	320030
-322.037	0.0	video off	4	322037
-322.739	0.0	resp	3	322739
-323.03	0.0	video on	5	323030
-325.031	0.0	video off	4	325031
-330.086	0.0	end	2	330086
+onset	duration	trial_type	value	sample	stim_id
+0.0	0.0	begin	1	0	n/a
+5.029	0.0	video on	5	5029	v_Futsal_id_cwAi7DJ3kQk_start_58.0_label_1
+7.03	0.0	video off	4	7030	n/a
+7.624	0.0	resp	3	7624	n/a
+8.027	0.0	video on	5	8027	v_Getting a haircut_id_Ft65NWVKkd4_start_16.5_label_1
+10.031	0.0	video off	4	10031	n/a
+10.456	0.0	resp	3	10456	n/a
+11.026	0.0	video on	5	11026	v_Tug of war_id_SnGDUzOzICU_start_36.5_label_1
+13.029	0.0	video off	4	13029	n/a
+13.688	0.0	resp	3	13688	n/a
+14.027	0.0	video on	5	14027	v_Long jump_id_NO9t2sFxXqY_start_4.5_label_1
+16.036	0.0	video off	4	16036	n/a
+16.48	0.0	resp	3	16480	n/a
+17.026	0.0	video on	5	17026	v_Sharpening knives_id_AakIyUNqGwA_start_28.0_label_1
+19.026	0.0	video off	4	19026	n/a
+19.44	0.0	resp	3	19440	n/a
+23.026	0.0	video on	5	23026	v_Running a marathon_id_ofrkSTRhCE4_start_65.0_label_1
+25.037	0.0	video off	4	25037	n/a
+25.48	0.0	resp	3	25480	n/a
+26.027	0.0	video on	5	26027	v_Playing violin_id_2TeRGST-TBw_start_10.5_label_1
+28.035	0.0	video off	4	28035	n/a
+28.464	0.0	resp	3	28464	n/a
+29.027	0.0	video on	5	29027	v_Building sandcastles_id_Y0rBAGer0ME_start_5.5_label_1
+31.038	0.0	video off	4	31038	n/a
+31.44	0.0	resp	3	31440	n/a
+32.027	0.0	video on	5	32027	v_Polishing shoes_id_KVNl50-UjQ0_start_18.5_label_1
+34.069	0.0	video off	4	34069	n/a
+34.776	0.0	resp	3	34776	n/a
+35.027	0.0	video on	5	35027	v_Playing bagpipes_id_32VYPKSvnSY_start_142.5_label_1
+37.027	0.0	video off	4	37027	n/a
+37.464	0.0	resp	3	37464	n/a
+41.027	0.0	video on	5	41027	v_Ballet_id_eIVOBwvv6Uc_start_96.5_label_1
+43.035	0.0	video off	4	43035	n/a
+43.496	0.0	resp	3	43496	n/a
+44.027	0.0	video on	5	44027	v_Playing field hockey_id_g0xegSfqzLc_start_49.0_label_1
+46.027	0.0	video off	4	46027	n/a
+46.608	0.0	resp	3	46608	n/a
+47.027	0.0	video on	5	47027	v_Canoeing_id_xIgbQ8b54UA_start_50.5_label_1
+49.029	0.0	video off	4	49029	n/a
+49.664	0.0	resp	3	49664	n/a
+50.027	0.0	video on	5	50027	v_Riding bumper cars_id_L5YmgB903Zo_start_21.5_label_1
+52.011	0.0	video off	4	52011	n/a
+52.496	0.0	resp	3	52496	n/a
+53.027	0.0	video on	5	53027	v_Fixing bicycle_id_GpEwqw99dzM_start_174.0_label_1
+55.033	0.0	video off	4	55033	n/a
+55.48	0.0	resp	3	55480	n/a
+59.027	0.0	video on	5	59027	v_Trimming branches or hedges_id_rYl8mCkj1so_start_176.0_label_1
+61.026	0.0	video off	4	61026	n/a
+61.552	0.0	resp	3	61552	n/a
+62.027	0.0	video on	5	62027	v_Rope skipping_id_YxXKIB5iINk_start_5.0_label_1
+64.03	0.0	video off	4	64030	n/a
+64.912	0.0	resp	3	64912	n/a
+65.114	0.0	video on	5	65114	v_Doing fencing_id_GV8pB8JXynE_start_10.5_label_1
+67.124	0.0	video off	4	67124	n/a
+68.027	0.0	video on	5	68027	v_Cheerleading_id_RNgH965E9w8_start_14.0_label_1
+70.036	0.0	video off	4	70036	n/a
+71.027	0.0	video on	5	71027	v_Fixing the roof_id_C0BxGqbaQVE_start_1.0_label_1
+73.055	0.0	video off	4	73055	n/a
+73.624	0.0	resp	3	73624	n/a
+77.027	0.0	video on	5	77027	v_Knitting_id_8ByKeqjuTrA_start_107.0_label_1
+79.034	0.0	video off	4	79034	n/a
+79.48	0.0	resp	3	79480	n/a
+80.027	0.0	video on	5	80027	v_Ironing clothes_id_Y6dSqyX7T9Y_start_50.5_label_1
+82.031	0.0	video off	4	82031	n/a
+82.504	0.0	resp	3	82504	n/a
+83.027	0.0	video on	5	83027	v_Baton twirling_id_fP998vWXAIU_start_141.0_label_1
+85.034	0.0	video off	4	85034	n/a
+85.488	0.0	resp	3	85488	n/a
+86.027	0.0	video on	5	86027	v_Playing saxophone_id_SPB3EbfaAQA_start_95.5_label_1
+88.065	0.0	video off	4	88065	n/a
+88.856	0.0	resp	3	88856	n/a
+89.029	0.0	video on	5	89029	v_Shoveling snow_id_4FjxSdOLfOo_start_15.0_label_1
+91.034	0.0	video off	4	91034	n/a
+91.561	0.0	resp	3	91561	n/a
+95.027	0.0	video on	5	95027	v_Kneeling_id_GILTOB7sXA4_start_65.0_label_1
+97.027	0.0	video off	4	97027	n/a
+97.585	0.0	resp	3	97585	n/a
+98.027	0.0	video on	5	98027	v_Walking the dog_id_x2AWg_Z5WkA_start_29.0_label_1
+100.03	0.0	video off	4	100030	n/a
+100.481	0.0	resp	3	100481	n/a
+101.027	0.0	video on	5	101027	v_Starting a campfire_id_UxDXtJ_uqW8_start_164.0_label_1
+103.031	0.0	video off	4	103031	n/a
+103.689	0.0	resp	3	103689	n/a
+104.027	0.0	video on	5	104027	v_Surfing_id_cW2T1lF6bCY_start_37.0_label_1
+106.035	0.0	video off	4	106035	n/a
+106.433	0.0	resp	3	106433	n/a
+107.027	0.0	video on	5	107027	v_Laying tile_id_MNDNcATkNgI_start_143.0_label_1
+109.029	0.0	video off	4	109029	n/a
+113.027	0.0	video on	5	113027	v_Using the monkey bar_id_aCJ1G_cUjvk_start_45.5_label_1
+115.029	0.0	video off	4	115029	n/a
+115.889	0.0	resp	3	115889	n/a
+116.049	0.0	video on	5	116049	v_Sailing_id_I5gMxszLdxM_start_4.5_label_1
+118.055	0.0	video off	4	118055	n/a
+118.513	0.0	resp	3	118513	n/a
+119.027	0.0	video on	5	119027	v_Croquet_id_dOKoUC3egOQ_start_35.5_label_1
+121.033	0.0	video off	4	121033	n/a
+121.546	0.0	resp	3	121546	n/a
+122.028	0.0	video on	5	122028	v_Swimming_id_rb7yOmv_Sgo_start_14.5_label_1
+124.029	0.0	video off	4	124029	n/a
+124.425	0.0	resp	3	124425	n/a
+125.027	0.0	video on	5	125027	v_Using the pommel horse_id_dGMOqMRo52c_start_21.5_label_1
+127.033	0.0	video off	4	127033	n/a
+127.433	0.0	resp	3	127433	n/a
+131.029	0.0	video on	5	131029	v_Brushing teeth_id_L5nHR8W2PDE_start_3.5_label_1
+133.064	0.0	video off	4	133064	n/a
+133.465	0.0	resp	3	133465	n/a
+134.028	0.0	video on	5	134028	v_Preparing pasta_id_gPVwfFQCLyk_start_102.5_label_1
+136.034	0.0	video off	4	136034	n/a
+136.601	0.0	resp	3	136601	n/a
+137.028	0.0	video on	5	137028	v_Hand washing clothes_id_i8aPphW8wg0_start_12.5_label_1
+139.035	0.0	video off	4	139035	n/a
+139.825	0.0	resp	3	139825	n/a
+140.027	0.0	video on	5	140027	v_Mixing drinks_id_XZsiY9S4WpI_start_176.5_label_1
+142.027	0.0	video off	4	142027	n/a
+142.593	0.0	resp	3	142593	n/a
+143.028	0.0	video on	5	143028	v_Playing harmonica_id_XTU5hT8XS78_start_36.0_label_1
+145.033	0.0	video off	4	145033	n/a
+145.913	0.0	resp	3	145913	n/a
+149.028	0.0	video on	5	149028	v_Drinking coffee_id_lW4r_D3upvM_start_53.5_label_1
+151.068	0.0	video off	4	151068	n/a
+151.585	0.0	resp	3	151585	n/a
+152.029	0.0	video on	5	152029	v_Doing kickboxing_id_GIrKOSKuRF4_start_59.0_label_1
+154.033	0.0	video off	4	154033	n/a
+154.657	0.0	resp	3	154657	n/a
+155.028	0.0	video on	5	155028	v_Putting on makeup_id_CVzLDr1nEBU_start_83.0_label_1
+157.036	0.0	video off	4	157036	n/a
+157.705	0.0	resp	3	157705	n/a
+158.027	0.0	video on	5	158027	v_Carving jack-o-lanterns_id_AqopmJVsemU_start_11.5_label_1
+160.031	0.0	video off	4	160031	n/a
+160.609	0.0	resp	3	160609	n/a
+161.027	0.0	video on	5	161027	v_Tai chi_id_2SF9oA4vrko_start_37.0_label_1
+163.031	0.0	video off	4	163031	n/a
+163.521	0.0	resp	3	163521	n/a
+167.027	0.0	video on	5	167027	v_BMX_id_eUQrVX3_tE0_start_82.5_label_1
+169.034	0.0	video off	4	169034	n/a
+169.521	0.0	resp	3	169521	n/a
+170.028	0.0	video on	5	170028	v_Wrapping presents_id_YGnuJ_cCMag_start_161.5_label_1
+172.069	0.0	video off	4	172069	n/a
+172.682	0.0	resp	3	172682	n/a
+173.027	0.0	video on	5	173027	v_Javelin throw_id_xpuz4Tf9dBk_start_60.5_label_1
+175.069	0.0	video off	4	175069	n/a
+175.889	0.0	resp	3	175889	n/a
+176.098	0.0	video on	5	176098	v_Mooping floor_id_AQg_CdonkDs_start_182.5_label_1
+178.104	0.0	video off	4	178104	n/a
+178.569	0.0	resp	3	178569	n/a
+179.029	0.0	video on	5	179029	v_Breakdancing_id_VydODgqcjrI_start_75.5_label_1
+181.034	0.0	video off	4	181034	n/a
+181.786	0.0	resp	3	181786	n/a
+185.029	0.0	video on	5	185029	v_Using the balance beam_id_3XEvwDgOOnI_start_83.5_label_1
+187.031	0.0	video off	4	187031	n/a
+187.666	0.0	resp	3	187666	n/a
+188.028	0.0	video on	5	188028	v_Arm wrestling_id_8ubGhspS1hw_start_155.0_label_1
+190.025	0.0	video off	4	190025	n/a
+190.409	0.0	resp	3	190409	n/a
+191.028	0.0	video on	5	191028	v_Making an omelette_id_eTTw6ijzp7A_start_105.0_label_1
+193.034	0.0	video off	4	193034	n/a
+193.505	0.0	resp	3	193505	n/a
+194.028	0.0	video on	5	194028	v_Swinging at the playground_id_E5E23aCSv3U_start_52.0_label_1
+196.025	0.0	video off	4	196025	n/a
+196.761	0.0	resp	3	196761	n/a
+197.028	0.0	video on	5	197028	v_Camel ride_id_hghT6yVhQJc_start_90.0_label_1
+199.029	0.0	video off	4	199029	n/a
+199.634	0.0	resp	3	199634	n/a
+203.028	0.0	video on	5	203028	v_Putting on shoes_id_7wrw19K_g_M_start_6.5_label_1
+205.028	0.0	video off	4	205028	n/a
+205.906	0.0	resp	3	205906	n/a
+206.099	0.0	video on	5	206099	v_Plastering_id_B_aOSaNWHm0_start_113.5_label_1
+208.106	0.0	video off	4	208106	n/a
+209.028	0.0	video on	5	209028	v_Smoking hookah_id_2zvN1cL1uik_start_26.5_label_1
+211.069	0.0	video off	4	211069	n/a
+212.028	0.0	video on	5	212028	v_Rafting_id_hdUc4uUYh0E_start_81.0_label_1
+214.038	0.0	video off	4	214038	n/a
+214.458	0.0	resp	3	214458	n/a
+215.028	0.0	video on	5	215028	v_Mowing the lawn_id_308tGoy23Ec_start_34.5_label_1
+217.032	0.0	video off	4	217032	n/a
+217.482	0.0	resp	3	217482	n/a
+221.028	0.0	video on	5	221028	v_Discus throw_id_fXllKPFzqcM_start_12.0_label_1
+223.034	0.0	video off	4	223034	n/a
+223.65	0.0	resp	3	223650	n/a
+224.028	0.0	video on	5	224028	v_Getting a piercing_id_GWgo_IwEafg_start_4.0_label_1
+226.033	0.0	video off	4	226033	n/a
+226.626	0.0	resp	3	226626	n/a
+227.033	0.0	video on	5	227033	v_Springboard diving_id_VCBZnQyJYpo_start_3.0_label_1
+229.039	0.0	video off	4	229039	n/a
+229.138	0.0	resp	3	229138	n/a
+230.028	0.0	video on	5	230028	v_Waterskiing_id_Gd99UVq900g_start_9.0_label_1
+232.032	0.0	video off	4	232032	n/a
+232.466	0.0	resp	3	232466	n/a
+233.029	0.0	video on	5	233029	v_Skateboarding_id_5i1qhhDJUCc_start_75.0_label_1
+235.036	0.0	video off	4	235036	n/a
+235.586	0.0	resp	3	235586	n/a
+239.03	0.0	video on	5	239030	v_Plataform diving_id_DO_ZMhKAhs8_start_69.5_label_1
+241.036	0.0	video off	4	241036	n/a
+241.762	0.0	resp	3	241762	n/a
+242.029	0.0	video on	5	242029	v_Playing beach volleyball_id_MEcLFRruyBg_start_10.5_label_1
+244.034	0.0	video off	4	244034	n/a
+244.378	0.0	resp	3	244378	n/a
+245.028	0.0	video on	5	245028	v_Longboarding_id_4lFCpGFA1lk_start_13.5_label_1
+247.04	0.0	video off	4	247040	n/a
+247.45	0.0	resp	3	247450	n/a
+248.028	0.0	video on	5	248028	v_Clean and jerk_id_rm4RRafhtHI_start_35.0_label_1
+250.031	0.0	video off	4	250031	n/a
+250.49	0.0	resp	3	250490	n/a
+251.028	0.0	video on	5	251028	v_Kayaking_id_6VNb5H-TQ2o_start_77.0_label_1
+253.035	0.0	video off	4	253035	n/a
+253.666	0.0	resp	3	253666	n/a
+257.028	0.0	video on	5	257028	v_Ping-pong_id_anvzwb0t8zo_start_43.0_label_1
+259.035	0.0	video off	4	259035	n/a
+259.898	0.0	resp	3	259898	n/a
+260.114	0.0	video on	5	260114	v_Polishing forniture_id_8HxC_gj6F_0_start_92.0_label_1
+262.16	0.0	video off	4	262160	n/a
+262.674	0.0	resp	3	262674	n/a
+263.028	0.0	video on	5	263028	v_Raking leaves_id_39JUV_juIWM_start_8.5_label_1
+265.031	0.0	video off	4	265031	n/a
+265.426	0.0	resp	3	265426	n/a
+266.028	0.0	video on	5	266028	v_Playing pool_id_Lvjt2VDPk-w_start_139.5_label_1
+268.036	0.0	video off	4	268036	n/a
+268.73	0.0	resp	3	268730	n/a
+269.028	0.0	video on	5	269028	v_Disc dog_id_RXwK6aTi0iY_start_15.0_label_1
+271.056	0.0	video off	4	271056	n/a
+271.674	0.0	resp	3	271674	n/a
+275.028	0.0	video on	5	275028	v_Playing accordion_id_OrlTW75Fz0U_start_21.5_label_1
+277.028	0.0	video off	4	277028	n/a
+277.626	0.0	resp	3	277626	n/a
+278.028	0.0	video on	5	278028	v_Grooming dog_id_ab0rk0O9MqY_start_75.5_label_1
+280.035	0.0	video off	4	280035	n/a
+280.874	0.0	resp	3	280874	n/a
+281.058	0.0	video on	5	281058	v_High jump_id_cU-FkJc7Jfg_start_36.5_label_1
+283.058	0.0	video off	4	283058	n/a
+283.53	0.0	resp	3	283530	n/a
+284.029	0.0	video on	5	284029	v_Belly dance_id_A48Geevotm0_start_0.5_label_1
+286.036	0.0	video off	4	286036	n/a
+286.874	0.0	resp	3	286874	n/a
+287.058	0.0	video on	5	287058	v_Triple jump_id_pXhALO7xmCc_start_42.5_label_1
+289.066	0.0	video off	4	289066	n/a
+289.658	0.0	resp	3	289658	n/a
+293.028	0.0	video on	5	293028	v_Bathing dog_id_FFcMrvaR3Wg_start_37.5_label_1
+295.031	0.0	video off	4	295031	n/a
+295.506	0.0	resp	3	295506	n/a
+296.028	0.0	video on	5	296028	v_Zumba_id_q3XLrKeIeDQ_start_97.0_label_1
+298.027	0.0	video off	4	298027	n/a
+298.658	0.0	resp	3	298658	n/a
+299.028	0.0	video on	5	299028	v_Playing racquetball_id_HdrIC__zqhY_start_51.0_label_1
+301.038	0.0	video off	4	301038	n/a
+301.819	0.0	resp	3	301819	n/a
+302.028	0.0	video on	5	302028	v_Tango_id_OEYfthgg05s_start_108.5_label_1
+304.034	0.0	video off	4	304034	n/a
+304.635	0.0	resp	3	304635	n/a
+305.029	0.0	video on	5	305029	v_Playing flauta_id_TaoC3Y5J-HQ_start_45.0_label_1
+307.068	0.0	video off	4	307068	n/a
+307.69	0.0	resp	3	307690	n/a
+311.029	0.0	video on	5	311029	v_Tumbling_id_EdXhqAdMAj4_start_6.0_label_1
+313.016	0.0	video off	4	313016	n/a
+313.547	0.0	resp	3	313547	n/a
+314.029	0.0	video on	5	314029	v_Archery_id_NFUq6eI1Z5U_start_30.5_label_1
+316.069	0.0	video off	4	316069	n/a
+316.876	0.0	resp	3	316876	n/a
+317.052	0.0	video on	5	317052	v_Throwing darts_id_H2-rEH9TXR4_start_5.0_label_1
+319.051	0.0	video off	4	319051	n/a
+319.619	0.0	resp	3	319619	n/a
+320.03	0.0	video on	5	320030	v_Chopping wood_id_oRC732Y2Ii8_start_72.0_label_1
+322.037	0.0	video off	4	322037	n/a
+322.739	0.0	resp	3	322739	n/a
+323.03	0.0	video on	5	323030	v_Hurling_id_Q6NkYe5igOA_start_33.0_label_1
+325.031	0.0	video off	4	325031	n/a
+330.086	0.0	end	2	330086	n/a

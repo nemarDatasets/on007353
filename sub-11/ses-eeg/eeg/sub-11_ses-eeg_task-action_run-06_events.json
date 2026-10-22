@@ -18,5 +18,8 @@
     },
     "StimulusPresentation": {
         "Software": "Psychophysics Toolbox-3 in MATLAB 2016 (MathWorks, USA)"
+    },
+    "stim_id": {
+        "Description": "Clip shown at this 'video on' event: its file name without '.mp4', i.e. stim_id in stimuli/stimuli.tsv, whose stim_file column gives the path under stimuli/; n/a on other rows. Added 2026-10-08 from the HAD-fMRI (ds004488) presentation order, see README section 'Stimuli'."
     }
 }

@@ -1,191 +1,191 @@
-onset	duration	trial_type	value	sample
-0.0	0.0	begin	1	0
-5.0	0.0	video on	5	5000
-7.0	0.0	video off	4	7000
-8.0	0.0	video on	5	8000
-10.0	0.0	video off	4	10000
-11.0	0.0	video on	5	11000
-13.0	0.0	video off	4	13000
-14.0	0.0	video on	5	14000
-16.0	0.0	video off	4	16000
-17.0	0.0	video on	5	17000
-19.0	0.0	video off	4	19000
-23.0	0.0	video on	5	23000
-25.0	0.0	video off	4	25000
-26.0	0.0	video on	5	26000
-28.0	0.0	video off	4	28000
-29.0	0.0	video on	5	29000
-31.0	0.0	video off	4	31000
-32.0	0.0	video on	5	32000
-34.0	0.0	video off	4	34000
-35.0	0.0	video on	5	35000
-37.0	0.0	video off	4	37000
-41.0	0.0	video on	5	41000
-43.0	0.0	video off	4	43000
-44.0	0.0	video on	5	44000
-46.0	0.0	video off	4	46000
-47.0	0.0	video on	5	47000
-49.0	0.0	video off	4	49000
-49.186	0.0	resp	3	49186
-50.0	0.0	video on	5	50000
-52.0	0.0	video off	4	52000
-53.0	0.0	video on	5	53000
-55.0	0.0	video off	4	55000
-59.0	0.0	video on	5	59000
-61.0	0.0	video off	4	61000
-62.0	0.0	video on	5	62000
-64.0	0.0	video off	4	64000
-65.0	0.0	video on	5	65000
-67.0	0.0	video off	4	67000
-68.0	0.0	video on	5	68000
-70.0	0.0	video off	4	70000
-71.0	0.0	video on	5	71000
-73.0	0.0	video off	4	73000
-77.0	0.0	video on	5	77000
-79.0	0.0	video off	4	79000
-80.0	0.0	video on	5	80000
-82.0	0.0	video off	4	82000
-83.0	0.0	video on	5	83000
-85.0	0.0	video off	4	85000
-86.0	0.0	video on	5	86000
-88.0	0.0	video off	4	88000
-89.0	0.0	video on	5	89000
-91.0	0.0	video off	4	91000
-95.0	0.0	video on	5	95000
-97.0	0.0	video off	4	97000
-98.0	0.0	video on	5	98000
-100.0	0.0	video off	4	100000
-101.0	0.0	video on	5	101000
-103.0	0.0	video off	4	103000
-104.0	0.0	video on	5	104000
-106.0	0.0	video off	4	106000
-107.0	0.0	video on	5	107000
-109.0	0.0	video off	4	109000
-113.0	0.0	video on	5	113000
-115.0	0.0	video off	4	115000
-115.007	0.0	resp	3	115007
-116.0	0.0	video on	5	116000
-118.0	0.0	video off	4	118000
-119.0	0.0	video on	5	119000
-121.0	0.0	video off	4	121000
-122.0	0.0	video on	5	122000
-124.0	0.0	video off	4	124000
-125.0	0.0	video on	5	125000
-127.0	0.0	video off	4	127000
-131.0	0.0	video on	5	131000
-133.0	0.0	video off	4	133000
-134.0	0.0	video on	5	134000
-136.0	0.0	video off	4	136000
-137.0	0.0	video on	5	137000
-139.0	0.0	video off	4	139000
-140.0	0.0	video on	5	140000
-142.0	0.0	video off	4	142000
-142.45	0.0	resp	3	142450
-143.0	0.0	video on	5	143000
-145.0	0.0	video off	4	145000
-149.0	0.0	video on	5	149000
-151.0	0.0	video off	4	151000
-152.0	0.0	video on	5	152000
-154.0	0.0	video off	4	154000
-155.0	0.0	video on	5	155000
-157.0	0.0	video off	4	157000
-157.004	0.0	resp	3	157004
-158.0	0.0	video on	5	158000
-160.0	0.0	video off	4	160000
-161.0	0.0	video on	5	161000
-163.0	0.0	video off	4	163000
-167.0	0.0	video on	5	167000
-169.0	0.0	video off	4	169000
-170.0	0.0	video on	5	170000
-172.0	0.0	video off	4	172000
-173.0	0.0	video on	5	173000
-175.0	0.0	video off	4	175000
-175.331	0.0	resp	3	175331
-176.0	0.0	video on	5	176000
-178.0	0.0	video off	4	178000
-179.0	0.0	video on	5	179000
-181.0	0.0	video off	4	181000
-185.0	0.0	video on	5	185000
-187.0	0.0	video off	4	187000
-188.0	0.0	video on	5	188000
-190.0	0.0	video off	4	190000
-191.0	0.0	video on	5	191000
-193.0	0.0	video off	4	193000
-194.0	0.0	video on	5	194000
-196.0	0.0	video off	4	196000
-197.0	0.0	video on	5	197000
-199.0	0.0	video off	4	199000
-203.0	0.0	video on	5	203000
-205.0	0.0	video off	4	205000
-205.642	0.0	resp	3	205642
-206.0	0.0	video on	5	206000
-208.0	0.0	video off	4	208000
-209.0	0.0	video on	5	209000
-211.0	0.0	video off	4	211000
-212.0	0.0	video on	5	212000
-214.0	0.0	video off	4	214000
-215.0	0.0	video on	5	215000
-217.0	0.0	video off	4	217000
-221.0	0.0	video on	5	221000
-223.0	0.0	video off	4	223000
-224.0	0.0	video on	5	224000
-226.0	0.0	video off	4	226000
-227.0	0.0	video on	5	227000
-229.0	0.0	video off	4	229000
-229.028	0.0	resp	3	229028
-230.0	0.0	video on	5	230000
-232.0	0.0	video off	4	232000
-233.0	0.0	video on	5	233000
-235.0	0.0	video off	4	235000
-239.0	0.0	video on	5	239000
-241.0	0.0	video off	4	241000
-242.0	0.0	video on	5	242000
-244.0	0.0	video off	4	244000
-245.0	0.0	video on	5	245000
-247.0	0.0	video off	4	247000
-248.0	0.0	video on	5	248000
-250.0	0.0	video off	4	250000
-251.0	0.0	video on	5	251000
-253.0	0.0	video off	4	253000
-257.0	0.0	video on	5	257000
-259.0	0.0	video off	4	259000
-260.0	0.0	video on	5	260000
-262.0	0.0	video off	4	262000
-263.0	0.0	video on	5	263000
-265.0	0.0	video off	4	265000
-266.0	0.0	video on	5	266000
-268.0	0.0	video off	4	268000
-269.0	0.0	video on	5	269000
-271.0	0.0	video off	4	271000
-275.0	0.0	video on	5	275000
-277.0	0.0	video off	4	277000
-278.0	0.0	video on	5	278000
-280.0	0.0	video off	4	280000
-281.0	0.0	video on	5	281000
-283.0	0.0	video off	4	283000
-284.0	0.0	video on	5	284000
-286.0	0.0	video off	4	286000
-287.0	0.0	video on	5	287000
-289.0	0.0	video off	4	289000
-293.0	0.0	video on	5	293000
-295.0	0.0	video off	4	295000
-296.0	0.0	video on	5	296000
-298.0	0.0	video off	4	298000
-299.0	0.0	video on	5	299000
-301.0	0.0	video off	4	301000
-302.0	0.0	video on	5	302000
-304.0	0.0	video off	4	304000
-305.0	0.0	video on	5	305000
-307.0	0.0	video off	4	307000
-311.0	0.0	video on	5	311000
-313.0	0.0	video off	4	313000
-314.0	0.0	video on	5	314000
-316.0	0.0	video off	4	316000
-317.0	0.0	video on	5	317000
-319.0	0.0	video off	4	319000
-319.004	0.0	resp	3	319004
-320.0	0.0	video on	5	320000
-322.0	0.0	video off	4	322000
-323.0	0.0	video on	5	323000
-325.0	0.0	video off	4	325000
-359.63	0.0	end	2	359630
+onset	duration	trial_type	value	sample	stim_id
+0.0	0.0	begin	1	0	n/a
+5.0	0.0	video on	5	5000	v_High jump_id_KyftE9Sgi14_start_14.0_label_1
+7.0	0.0	video off	4	7000	n/a
+8.0	0.0	video on	5	8000	v_Long jump_id_HBTaGadnBR8_start_14.0_label_1
+10.0	0.0	video off	4	10000	n/a
+11.0	0.0	video on	5	11000	v_Discus throw_id_loEQyqqpM0A_start_4.5_label_1
+13.0	0.0	video off	4	13000	n/a
+14.0	0.0	video on	5	14000	v_Using the balance beam_id_7n2N-J4XAr8_start_34.0_label_1
+16.0	0.0	video off	4	16000	n/a
+17.0	0.0	video on	5	17000	v_Zumba_id_I913WlipLXw_start_86.0_label_1
+19.0	0.0	video off	4	19000	n/a
+23.0	0.0	video on	5	23000	v_Playing racquetball_id_OMqwO6G4cOw_start_110.5_label_1
+25.0	0.0	video off	4	25000	n/a
+26.0	0.0	video on	5	26000	v_Shoveling snow_id_-8hERBkW8QQ_start_90.0_label_1
+28.0	0.0	video off	4	28000	n/a
+29.0	0.0	video on	5	29000	v_Hitting a pinata_id_M2PhzlDeFYA_start_2.5_label_1
+31.0	0.0	video off	4	31000	n/a
+32.0	0.0	video on	5	32000	v_Horseback riding_id_zF-SFQLC2Fo_start_61.0_label_1
+34.0	0.0	video off	4	34000	n/a
+35.0	0.0	video on	5	35000	v_Preparing salad_id_kcoXs1QFSSk_start_85.5_label_1
+37.0	0.0	video off	4	37000	n/a
+41.0	0.0	video on	5	41000	v_Hula hoop_id_dZo8WmCfNUo_start_120.0_label_1
+43.0	0.0	video off	4	43000	n/a
+44.0	0.0	video on	5	44000	v_Sumo_id_bbu3wvJ5-cU_start_25.5_label_1
+46.0	0.0	video off	4	46000	n/a
+47.0	0.0	video on	5	47000	v_Rock-paper-scissors_id__dsjR9HNxaU_start_90.5_label_1
+49.0	0.0	video off	4	49000	n/a
+49.186	0.0	resp	3	49186	n/a
+50.0	0.0	video on	5	50000	v_Fun sliding down_id_Dc2jKnc9YHM_start_74.0_label_1
+52.0	0.0	video off	4	52000	n/a
+53.0	0.0	video on	5	53000	v_Playing rubik cube_id__HkkbxIPvbw_start_43.0_label_1
+55.0	0.0	video off	4	55000	n/a
+59.0	0.0	video on	5	59000	v_Welding_id_rmRJxhuKh20_start_166.0_label_1
+61.0	0.0	video off	4	61000	n/a
+62.0	0.0	video on	5	62000	v_Tai chi_id_N_07FRPqoVE_start_50.0_label_1
+64.0	0.0	video off	4	64000	n/a
+65.0	0.0	video on	5	65000	v_Clean and jerk_id_XRd5Yskfzc4_start_14.0_label_1
+67.0	0.0	video off	4	67000	n/a
+68.0	0.0	video on	5	68000	v_Drum corps_id_RTDwr8jt_UY_start_101.5_label_1
+70.0	0.0	video off	4	70000	n/a
+71.0	0.0	video on	5	71000	v_Scuba diving_id_3wNPIzY-V4M_start_31.0_label_1
+73.0	0.0	video off	4	73000	n/a
+77.0	0.0	video on	5	77000	v_Making a sandwich_id_yGiv9BRmK8U_start_97.0_label_1
+79.0	0.0	video off	4	79000	n/a
+80.0	0.0	video on	5	80000	v_Mixing drinks_id_QsDaEtFNx1w_start_29.5_label_1
+82.0	0.0	video off	4	82000	n/a
+83.0	0.0	video on	5	83000	v_Building sandcastles_id_7I2tKtPbdmI_start_67.0_label_1
+85.0	0.0	video off	4	85000	n/a
+86.0	0.0	video on	5	86000	v_Playing squash_id_PVvMfzZ_nt4_start_25.0_label_1
+88.0	0.0	video off	4	88000	n/a
+89.0	0.0	video on	5	89000	v_Playing ice hockey_id_kF_BBNo9GKY_start_4.0_label_1
+91.0	0.0	video off	4	91000	n/a
+95.0	0.0	video on	5	95000	v_Polishing shoes_id_ICBzTH0OQtM_start_62.5_label_1
+97.0	0.0	video off	4	97000	n/a
+98.0	0.0	video on	5	98000	v_Rollerblading_id_9ENDj70-UlM_start_35.0_label_1
+100.0	0.0	video off	4	100000	n/a
+101.0	0.0	video on	5	101000	v_Plataform diving_id_wFawmgH451E_start_114.5_label_1
+103.0	0.0	video off	4	103000	n/a
+104.0	0.0	video on	5	104000	v_Table soccer_id_kax1PUz2U7M_start_29.5_label_1
+106.0	0.0	video off	4	106000	n/a
+107.0	0.0	video on	5	107000	v_Ping-pong_id_y9-o1_MfBVQ_start_31.0_label_1
+109.0	0.0	video off	4	109000	n/a
+113.0	0.0	video on	5	113000	v_Vacuuming floor_id_gPLYTQKNptQ_start_6.0_label_1
+115.0	0.0	video off	4	115000	n/a
+115.007	0.0	resp	3	115007	n/a
+116.0	0.0	video on	5	116000	v_Calf roping_id_ZdjES23vSfg_start_0.5_label_1
+118.0	0.0	video off	4	118000	n/a
+119.0	0.0	video on	5	119000	v_Using the rowing machine_id_-_48mvFuRKE_start_2.0_label_1
+121.0	0.0	video off	4	121000	n/a
+122.0	0.0	video on	5	122000	v_Using uneven bars_id_spAlIMm8jSg_start_14.5_label_1
+124.0	0.0	video off	4	124000	n/a
+125.0	0.0	video on	5	125000	v_Archery_id_-Pi3uPQ3mzE_start_54.0_label_1
+127.0	0.0	video off	4	127000	n/a
+131.0	0.0	video on	5	131000	v_Kayaking_id_plB7H9e_078_start_7.5_label_1
+133.0	0.0	video off	4	133000	n/a
+134.0	0.0	video on	5	134000	v_Putting on shoes_id_Bu_sDScQpTU_start_72.0_label_1
+136.0	0.0	video off	4	136000	n/a
+137.0	0.0	video on	5	137000	v_Wakeboarding_id_MFPcTPooNU4_start_98.5_label_1
+139.0	0.0	video off	4	139000	n/a
+140.0	0.0	video on	5	140000	v_Playing water polo_id_gPahZuHyzOM_start_69.0_label_1
+142.0	0.0	video off	4	142000	n/a
+142.45	0.0	resp	3	142450	n/a
+143.0	0.0	video on	5	143000	v_Playing blackjack_id_t5ZbnHdS1B8_start_53.0_label_1
+145.0	0.0	video off	4	145000	n/a
+149.0	0.0	video on	5	149000	v_Playing field hockey_id_QXmdH4kIWqk_start_31.5_label_1
+151.0	0.0	video off	4	151000	n/a
+152.0	0.0	video on	5	152000	v_Slacklining_id_bKRfw48P4_M_start_56.0_label_1
+154.0	0.0	video off	4	154000	n/a
+155.0	0.0	video on	5	155000	v_Making a cake_id_3cCxzWO3sj8_start_43.0_label_1
+157.0	0.0	video off	4	157000	n/a
+157.004	0.0	resp	3	157004	n/a
+158.0	0.0	video on	5	158000	v_Playing violin_id_G_TCLcX8jE0_start_13.0_label_1
+160.0	0.0	video off	4	160000	n/a
+161.0	0.0	video on	5	161000	v_Hurling_id_foQ4UQ8aqUI_start_2.5_label_1
+163.0	0.0	video off	4	163000	n/a
+167.0	0.0	video on	5	167000	v_Starting a campfire_id_I5CvJRcDEJc_start_119.0_label_1
+169.0	0.0	video off	4	169000	n/a
+170.0	0.0	video on	5	170000	v_Hammer throw_id_cqH7Rb-DPbE_start_5.5_label_1
+172.0	0.0	video off	4	172000	n/a
+173.0	0.0	video on	5	173000	v_Playing polo_id_Hh48cALHpy8_start_61.0_label_1
+175.0	0.0	video off	4	175000	n/a
+175.331	0.0	resp	3	175331	n/a
+176.0	0.0	video on	5	176000	v_Laying tile_id_TJmJTFd4Ois_start_61.0_label_1
+178.0	0.0	video off	4	178000	n/a
+179.0	0.0	video on	5	179000	v_Hand car wash_id_ssPr3_KUzUk_start_31.5_label_1
+181.0	0.0	video off	4	181000	n/a
+185.0	0.0	video on	5	185000	v_Volleyball_id_MVqEYsNaAMA_start_47.5_label_1
+187.0	0.0	video off	4	187000	n/a
+188.0	0.0	video on	5	188000	v_Shot put_id_g8pHrq1KXGg_start_9.0_label_1
+190.0	0.0	video off	4	190000	n/a
+191.0	0.0	video on	5	191000	v_Baking cookies_id_Y5HR3t4kS9w_start_70.5_label_1
+193.0	0.0	video off	4	193000	n/a
+194.0	0.0	video on	5	194000	v_Rock climbing_id_y_mZ10Tt6Yk_start_29.0_label_1
+196.0	0.0	video off	4	196000	n/a
+197.0	0.0	video on	5	197000	v_Rafting_id_WyZsOjvLD0E_start_16.5_label_1
+199.0	0.0	video off	4	199000	n/a
+203.0	0.0	video on	5	203000	v_Beer pong_id_wfSKYoj0P0s_start_38.5_label_1
+205.0	0.0	video off	4	205000	n/a
+205.642	0.0	resp	3	205642	n/a
+206.0	0.0	video on	5	206000	v_Polishing forniture_id_kI6d2mL6yhE_start_132.0_label_1
+208.0	0.0	video off	4	208000	n/a
+209.0	0.0	video on	5	209000	v_Kite flying_id_va0xLgCVGZE_start_4.5_label_1
+211.0	0.0	video off	4	211000	n/a
+212.0	0.0	video on	5	212000	v_Beach soccer_id_Gk6w8ASJDsQ_start_19.0_label_1
+214.0	0.0	video off	4	214000	n/a
+215.0	0.0	video on	5	215000	v_Swinging at the playground_id_DAZmax5Q4Cw_start_50.0_label_1
+217.0	0.0	video off	4	217000	n/a
+221.0	0.0	video on	5	221000	v_Cutting the grass_id_3U1y7qwwy2A_start_12.0_label_1
+223.0	0.0	video off	4	223000	n/a
+224.0	0.0	video on	5	224000	v_Brushing teeth_id_KHYJc1JXLdE_start_3.0_label_1
+226.0	0.0	video off	4	226000	n/a
+227.0	0.0	video on	5	227000	v_Snow tubing_id_78wRaLT8_D4_start_24.5_label_1
+229.0	0.0	video off	4	229000	n/a
+229.028	0.0	resp	3	229028	n/a
+230.0	0.0	video on	5	230000	v_Playing piano_id_YGZEZSgcyKg_start_45.5_label_1
+232.0	0.0	video off	4	232000	n/a
+233.0	0.0	video on	5	233000	v_Paintball_id_u8RQ2G-7lMw_start_29.5_label_1
+235.0	0.0	video off	4	235000	n/a
+239.0	0.0	video on	5	239000	v_Shuffleboard_id_HNG7_hdDc6k_start_21.5_label_1
+241.0	0.0	video off	4	241000	n/a
+242.0	0.0	video on	5	242000	v_Doing fencing_id_PMy1La65PlM_start_5.0_label_1
+244.0	0.0	video off	4	244000	n/a
+245.0	0.0	video on	5	245000	v_Blow-drying hair_id_p7OFcG3Gzsc_start_7.0_label_1
+247.0	0.0	video off	4	247000	n/a
+248.0	0.0	video on	5	248000	v_Playing flauta_id__7-PM_4aeE4_start_42.0_label_1
+250.0	0.0	video off	4	250000	n/a
+251.0	0.0	video on	5	251000	v_Painting fence_id_a5IkKsEUeDk_start_6.5_label_1
+253.0	0.0	video off	4	253000	n/a
+257.0	0.0	video on	5	257000	v_Playing accordion_id_gaGYA3iyiGM_start_22.0_label_1
+259.0	0.0	video off	4	259000	n/a
+260.0	0.0	video on	5	260000	v_Bathing dog_id_3UJuryD4jgw_start_2.5_label_1
+262.0	0.0	video off	4	262000	n/a
+263.0	0.0	video on	5	263000	v_Tug of war_id_LR6JobvGD-E_start_8.0_label_1
+265.0	0.0	video off	4	265000	n/a
+266.0	0.0	video on	5	266000	v_Playing kickball_id_ucXqBn-EKd0_start_105.0_label_1
+268.0	0.0	video off	4	268000	n/a
+269.0	0.0	video on	5	269000	v_Grooming horse_id_2IgXl12G930_start_44.0_label_1
+271.0	0.0	video off	4	271000	n/a
+275.0	0.0	video on	5	275000	v_Making an omelette_id_icCqE_ai_aU_start_23.5_label_1
+277.0	0.0	video off	4	277000	n/a
+278.0	0.0	video on	5	278000	v_Tumbling_id_odhKlx9j7HA_start_2.0_label_1
+280.0	0.0	video off	4	280000	n/a
+281.0	0.0	video on	5	281000	v_Futsal_id_9XcTODwMp4A_start_18.0_label_1
+283.0	0.0	video off	4	283000	n/a
+284.0	0.0	video on	5	284000	v_Smoking hookah_id_HrBa_UraJvc_start_2.0_label_1
+286.0	0.0	video off	4	286000	n/a
+287.0	0.0	video on	5	287000	v_Springboard diving_id_YuuvQwq_pHg_start_10.0_label_1
+289.0	0.0	video off	4	289000	n/a
+293.0	0.0	video on	5	293000	v_Playing congas_id_ESXwHU2hu80_start_81.0_label_1
+295.0	0.0	video off	4	295000	n/a
+296.0	0.0	video on	5	296000	v_Raking leaves_id__q9N4ELKJp0_start_23.5_label_1
+298.0	0.0	video off	4	298000	n/a
+299.0	0.0	video on	5	299000	v_Pole vault_id_jfJph9dh61E_start_3.0_label_1
+301.0	0.0	video off	4	301000	n/a
+302.0	0.0	video on	5	302000	v_Ballet_id_-ukHGcHH3ws_start_29.0_label_1
+304.0	0.0	video off	4	304000	n/a
+305.0	0.0	video on	5	305000	v_Doing kickboxing_id_rYdof_aN82A_start_68.5_label_1
+307.0	0.0	video off	4	307000	n/a
+311.0	0.0	video on	5	311000	v_Using the pommel horse_id_UqaGwqv19Wc_start_4.5_label_1
+313.0	0.0	video off	4	313000	n/a
+314.0	0.0	video on	5	314000	v_Making a lemonade_id__hScVXfSTV8_start_115.0_label_1
+316.0	0.0	video off	4	316000	n/a
+317.0	0.0	video on	5	317000	v_Playing beach volleyball_id_JWozh3kljtE_start_21.0_label_1
+319.0	0.0	video off	4	319000	n/a
+319.004	0.0	resp	3	319004	n/a
+320.0	0.0	video on	5	320000	v_Triple jump_id_35hSlTfczuc_start_3.5_label_1
+322.0	0.0	video off	4	322000	n/a
+323.0	0.0	video on	5	323000	v_Kneeling_id_0WiXMrh-sCQ_start_7.5_label_1
+325.0	0.0	video off	4	325000	n/a
+359.63	0.0	end	2	359630	n/a

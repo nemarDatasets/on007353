@@ -1,0 +1,60 @@
+{
+  "stim_id": {
+    "Description": "File name of the clip without extension."
+  },
+  "stim_file": {
+    "Description": "Path relative to stimuli/ of the presented file, which is part of this dataset."
+  },
+  "source_title": {
+    "Description": "Title of the source work or upload."
+  },
+  "source_id": {
+    "Description": "Identifier of the source (YouTube id, archive or deposit identifier, clip name)."
+  },
+  "source_url": {
+    "Description": "Where the source can be obtained (official page, upload or deposit). Not a copy made by us."
+  },
+  "source_in_s": {
+    "Description": "Start of the clip in the YouTube video, from the HACS file name.",
+    "Units": "s"
+  },
+  "rights": {
+    "Description": "Rights note. 'third-party; not included': the video belongs to its rights holder and is not part of this dataset."
+  },
+  "duration_s": {
+    "Description": "Duration of the presented version.",
+    "Units": "s"
+  },
+  "fps": {
+    "Description": "Frame rate of the file described by sha256 (ffprobe).",
+    "Units": "Hz"
+  },
+  "width": {
+    "Description": "Frame width of the file described by sha256 (ffprobe).",
+    "Units": "pixel"
+  },
+  "height": {
+    "Description": "Frame height of the file described by sha256 (ffprobe).",
+    "Units": "pixel"
+  },
+  "n_frames": {
+    "Description": "Number of video frames of the file described by sha256 (ffprobe packet count)."
+  },
+  "audio": {
+    "Description": "yes if the file described by sha256 has an audio stream."
+  },
+  "sha256": {
+    "Description": "SHA-256 of stimuli/<stim_file> (the file in this dataset)."
+  },
+  "verification": {
+    "Description": "How identity and timing were checked."
+  },
+  "confidence": {
+    "Description": "Confidence in identity and timing.",
+    "Levels": {
+      "verified": "identity and timing checked against data or files of this dataset",
+      "likely": "identity verified, timing from one anchor, or two independent anchors agree",
+      "unknown": "not checked or not resolvable from public material"
+    }
+  }
+}
